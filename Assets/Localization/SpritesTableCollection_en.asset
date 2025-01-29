@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: SpritesTableCollection_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 34cd28b1844ccd541a20c51356549dcf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 508104704000
+    m_Localized: 255a1dd8af588fc4bbcff2d2c6c539ba[BlueButton-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098293608448
+    m_Localized: 13f9bc2106228ca4982084b0ea2339ec[RedButton-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175135904071680
+    m_Localized: 735707c7e9d72394097e3d1df7b6f2c7[Goal-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180583587741696
+    m_Localized: 9a45ac3a186c2dd43b0958e627cc6f3d[Draw-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180470312173568
+    m_Localized: a4dc27f60b255ed4d95fe35146bbd4c1[RedWins-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180123124465664
+    m_Localized: 28f2d14c7781df847a28a2156a4c52b8[BlueWins-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2179739597307904
+    m_Localized: 4bc081f1a7367f348a55d864f3a7606b[Out-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2179375162621952
+    m_Localized: e8c5c51a684f203419250dbca1c44af6[ChangeOfGoals-en]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178269208543232
+    m_Localized: b4d6a927103561c41b1dc882d6b541cb
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

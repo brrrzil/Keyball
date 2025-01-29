@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SpritesTableCollection Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: SpritesTableCollection
+  m_TableCollectionNameGuidString: 34cd28b1844ccd541a20c51356549dcf
+  m_Entries:
+  - m_Id: 508104704000
+    m_Key: Menu.1Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098293608448
+    m_Key: Menu.2Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175135904071680
+    m_Key: Game.Goal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178269208543232
+    m_Key: Game.Halftime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2179375162621952
+    m_Key: Game.ChangeOfGoals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2179739597307904
+    m_Key: Game.Out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180123124465664
+    m_Key: Game.BlueWins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180470312173568
+    m_Key: Game.RedWins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2180583587741696
+    m_Key: Game.Draw
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 5601688796068315164
+    - rid: 5601688863346262019
+  m_KeyGenerator:
+    rid: 5601688796068315162
+  references:
+    version: 2
+    RefIds:
+    - rid: 5601688796068315162
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1736859994347
+    - rid: 5601688796068315164
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 508104704000
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 1098293608448
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 2175135904071680
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 2179375162621952
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 2179739597307904
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 2180123124465664
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 2180470312173568
+          m_TableCodes:
+          - en
+          - ru
+        - m_KeyId: 2180583587741696
+          m_TableCodes:
+          - en
+          - ru
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - rid: 5601688863346262019
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 2178269208543232
+          m_TableCodes:
+          - en
+          - ru
+        m_TypeString: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
